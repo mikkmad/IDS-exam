@@ -128,7 +128,7 @@ void loop() {
             client.println("Connection: close");
             client.println();
 
-            // turns the GPIOs on and off
+            // turns the Relay on and off
 
             if (header.indexOf("GET /status/on") >= 0) {
               Serial.println("Coffee machine is on and making coffee!");
