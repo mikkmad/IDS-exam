@@ -40,8 +40,6 @@ String relayState = "off";
 
 const int RELAY_PIN = 16;
 
-// #define ONBOARD_RELAY 3
-
 // Current time
 unsigned long currentTime = millis();
 
