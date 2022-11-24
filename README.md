@@ -1,10 +1,9 @@
 # IDS-exam
 
 ### Group Members
-
-Mathias Albøger Wiberg \
-Mikkel Helsted Madsen \
-William Medorlf Brøgger
+- Mathias Albøger Wiberg
+- Mikkel Helsted Madsen
+- William Medorlf Brøgger
 
 ### Authors notes: 
 Notes for setup for ESP32 WROOM chip: 
