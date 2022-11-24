@@ -8,8 +8,8 @@ William Medorlf Brøgger
 
 ### Authors notes: 
 Notes for setup for ESP32 WROOM chip: 
-  Blue (VCC) - Microchip pin 3 
-  Red (Ground) - Microchip pin 4
+  Blue (VCC) - Microchip pin 3 \
+  Red (Ground) - Microchip pin 4 \
   White (Input/Output 16) Microchip pin 5
 
 ## Purpose of the code
