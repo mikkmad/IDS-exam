@@ -17,8 +17,8 @@ Please note that this code is fetched from https://learn.hobye.dk/kits/iot-totur
 #include "sntp.h"
 
 // Replace with your network credentials
-const char* ssid = "OnePlus6";
-const char* password = "grisitarm";
+const char* ssid = "YOUR_SSID";
+const char* password = "YOUR_PASSWORD";
 
 // set up time-getters
 const char* ntpServer1 = "pool.ntp.org";
